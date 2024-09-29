@@ -1,3 +1,3 @@
-# Something lab
+# Front-end part of The Project
 
-Possible to be much better than it is now.
+**_Information..._**
